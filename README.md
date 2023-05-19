@@ -8,7 +8,7 @@
 - `npm i disverse.js`
 
 ```js
-const Disverse = require("./disverse.js");
+const Disverse = require("disverse.js"); // Si no se declara el archivo, pruebe intentar llamarlo de nuevo.
 const dbl = new Disverse("TOKEN-AQUI", client);
 
 client.on("ready", async () => {
