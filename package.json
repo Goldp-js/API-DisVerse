@@ -1,0 +1,29 @@
+{
+  "name": "disverse.js",
+  "version": "1.0.0",
+  "description": "Una API oficial de DisVerse.",
+  "main": "disverse.js",
+  "scripts": {
+    "test": "!vote"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/VirtualOx-sys/API-DisVerse"
+  },
+  "keywords": [
+    "bot",
+    "list",
+    "discord",
+    "api",
+    "bots",
+    "vote",
+    "check",
+    "vote",
+    "control",
+    "force",
+    "vote"
+  ],
+  "author": "VirtualOx",
+  "license": "MIT",
+  "dependencies": {}
+}
