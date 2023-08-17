@@ -6,7 +6,7 @@
 ## Instalación
 *Si tiene problemas con la instalación, no dude en visitar nuestro [discord](https://disverse.space/dc).*
 - `npm i disverse.js`
-
+  
 ```js
 const Disverse = require("disverse.js"); // Si no se declara el archivo, pruebe intentar llamarlo de nuevo.
 const dbl = new Disverse("TOKEN-AQUI", client);
