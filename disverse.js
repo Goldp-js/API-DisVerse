@@ -14,7 +14,7 @@ class Disverse {
     // Mensaje de inicio con color
     console.log(chalk.green.bold("¡Bienvenido a Disverse!"));
     console.log(chalk.yellow("Únete al servidor oficial de Disverse para obtener soporte y actualizaciones:"));
-    console.log(chalk.blue.underline("https://example.com/servidor-disverse")); // Reemplaza con el enlace real
+    console.log(chalk.blue.underline("https://discord.gg/G3wQSJeYWj"));
   }
 
   async serverCount(serverCount, message = "Conteo de servidores publicado.") {
