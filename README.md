@@ -7,7 +7,7 @@
 <a href="https://disverse.space/dc" target="_blank"><img src="https://cdn.cleris.me/Ry9D" alt="Únase a nuestro Discord" width="256"></a><br>
 
 **Soporte:** [https://disverse.space/dc](https://disverse.space/dc) <br>
-**NPM:** [npmjs.com/package/disverse.js](https://www.npmjs.com/package/disverse.js)<br>
+**NPM:** [npmjs.com/package/disverse.js](https://www.npmjs.com/package/disverse.js) DELETED<br>
 
 ## Instalación
 **Deprecated**
